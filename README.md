@@ -8,7 +8,7 @@ SWE @ ADP - Interested in how LLMs can augment data into the right format for op
 
 **[JellyfinMCPServer](https://github.com/ArjunVenat/JellyfinMCPServer)** — MCP server giving Claude natural-language access to a self-hosted Jellyfin media library.
 
-**Jellyfin Smart Search** — Semantic video search over a self-hosted media library using SigLIP embeddings and nomic-embed-text on captions.
+**Jellyfin Smart Search** — Semantic video search over a self-hosted media library using SigLIP embeddings on distinct frames and nomic-embed-text on captions.
 
 **Homelabbing** — Kubernetes Cluster w/ Talos, Proxmox cluster, TrueNAS, self-hosted Postgres/pgvector.
 
