@@ -12,7 +12,7 @@ Interested in how LLMs can augment data into the right format for optimization m
 
 **Jellyfin Smart Search** — Semantic video search over a self-hosted media library using SigLIP embeddings on distinct frames and nomic-embed-text on captions.
 
-**Homelabbing** — Kubernetes Cluster w/ Talos, Proxmox cluster, TrueNAS, self-hosted Postgres/pgvector.
+**Homelabbing** — Kubernetes Cluster w/ Talos, Proxmox cluster, TrueNAS, self-hosted Postgres/pgvector, *arr stack (iykyk).
 
 **In the pipeline** — AI agents + optimization systems.
 
