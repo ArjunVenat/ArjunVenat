@@ -1,6 +1,8 @@
 # Arjun Venat
 
-SWE @ ADP - Interested in how LLMs can augment data into the right format for optimization models.
+SWE @ ADP - Burned more money on my homelab than I ever would've on AWS. Would do it again.
+
+Interested in how LLMs can augment data into the right format for optimization models.
 
 ---
 
