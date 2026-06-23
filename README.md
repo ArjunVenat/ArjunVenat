@@ -10,6 +10,8 @@ Interested in how LLMs can augment data into the right format for optimization m
 
 **[JellyfinMCPServer](https://github.com/ArjunVenat/JellyfinMCPServer)** — MCP server giving Claude natural-language access to a self-hosted Jellyfin media library.
 
+**[Self-Healing-Documentation-Agent](https://github.com/ArjunVenat/Self-Healing-Documentation-Agent)** — GitHub Action that detects documentation drift on every push and opens PRs with AI-generated fixes.
+
 **Jellyfin Smart Search** — Semantic video search over a self-hosted media library using SigLIP embeddings on distinct frames and nomic-embed-text on captions.
 
 **Homelabbing** — Kubernetes Cluster w/ Talos, Proxmox cluster, TrueNAS, self-hosted Postgres/pgvector, *arr stack (iykyk).
